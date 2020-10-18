@@ -25,7 +25,7 @@ def load():
     y = y.replace([0.5, 1.0, 2.0, 3.0], 0)
     y = y.replace([4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0, 12.0, 15.0, 16.0, 20.0], 1)
     
-    #borrar variable dependiente y variable selector
+    #borrar variable dependiente
     df = df.drop('drinks', axis = 1)
     
     #llamar funcion para graficar matriz de correlacion

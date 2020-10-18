@@ -1,5 +1,5 @@
-# First-ML-Project
-This is the first project we make in this semester, for the academic subject "Machine Learning"
+# Primer Proyecto de Machine Learning
+Este repositorio ha sido creado para el primer proyecto del curso de Machine Learning
 
 
 Liver Disorders Data set:
